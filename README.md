@@ -21,8 +21,50 @@ Here are some Key Performance Indicator (KPI) questions for your **Road Accident
 5. What is the distribution of casualties based on road surface conditions (dry, wet, snow/ice)?  
 6. Are rural or urban areas experiencing higher casualty rates?  
 7. What is the impact of lighting conditions (daylight vs. dark) on casualty rates?  
-8. Which year had higher casualty counts, and what were the key differences?  
-9. How effective are current road safety measures in high-risk locations?  
-10. What percentage of accidents occur on specific road types or under certain conditions?  
+8. Which year had higher casualty counts, and what were the key differences?
 
-These questions will help guide the analysis and uncover actionable insights from your dashboard.
+   ## Project Insight
+   Here are the answers to the KPIs based on the provided dashboard:
+
+1. Total Casualties and Categorization:
+   - Total casualties: **74,486**  
+   - Fatal: 2,049 (2.8%)**  
+   - Serious: **12,842 (17.2%)**  
+   - Slight: **59,595 (80%)**
+
+2. Vehicle Type with Most Fatalities:
+   - Cars contribute the most to fatal casualties: **60,084.**
+
+3. Monthly Trends in Road Casualties (2021 vs. 2022):
+   - Casualties show a similar trend across months, with a slight increase in some months for 2022 compared to 2021.
+
+4. Casualties by Road Type:
+   - Dual carriageways: **16.8k**  
+   - Single carriageways: **12.2k**  
+   - Roundabouts: **4.6k**  
+   - Slip roads: **1.4k**
+
+5. Casualties by Road Surface Conditions:
+   - Dry roads: **45,637**  
+   - Wet roads: **21,500**  
+   - Snow/Ice: **7,249**
+
+6. Urban vs. Rural Casualties:
+   - Rural areas account for the majority: 74.5k.
+
+7. Impact of Lighting Conditions:
+   - Dark conditions: **55.3k** casualties  
+   - Daylight: **19.2k** casualties
+
+8. Yearly Comparison:
+   - 2022 shows a consistent trend compared to 2021, with minor variations across months.
+
+9. Effectiveness of Road Safety Measures:
+   - High casualty counts on dual and single carriageways indicate the need for further measures like speed controls and enhanced signage.
+
+10. Percentage of Accidents by Conditions:
+   - Dry roads: **61.3%**  
+   - Wet roads: **28.9%**  
+   - Snow/Ice: **9.7%**
+
+
