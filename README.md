@@ -1,5 +1,15 @@
 # Road Accident Dashboard-
 A dynamic dashboard analyzing road accident data, highlighting casualty trends, vehicle types, road conditions, and locations to enhance safety and decision-making.
+## Project Objective
+Analyze road accident data using an Excel dashboard to identify trends, improve safety, and support data-driven decision-making.
+## Process Used:  
+
+1. Data Collection:* Gathered road accident data from reliable sources.  
+2. Data Cleaning: Removed inconsistencies and prepared the data for analysis.  
+3. Data Analysis: Analyzed casualty trends, road conditions, and vehicle types.  
+4. Dashboard Creation: Designed an interactive Excel dashboard to visualize key insights.  
+5. Evaluation: Identified patterns and areas for safety improvements.
+
 ## Questions (KPIs)
 
 Here are some Key Performance Indicator (KPI) questions for your **Road Accident Dashboard**:
