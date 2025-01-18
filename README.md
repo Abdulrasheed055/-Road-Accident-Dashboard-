@@ -84,7 +84,8 @@ Based on the updated dashboard image, here are some **questions (KPIs)** and the
 9. **Yearly Comparison:**  
    - 2022 appears to have slightly more casualties compared to 2021, with seasonal variation influencing the trends.
 
-10. **Measures to Reduce Accidents:**  
+
+   ## Recommendation  Measures to Reduce Accidents:  
    - Focus on improving safety on **single carriageways** (highest casualties).  
    - Increase visibility measures for **dark conditions**.  
    - Enhance road maintenance to address issues on **wet roads**.
